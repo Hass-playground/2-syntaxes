@@ -29,7 +29,10 @@ This is an italic text\
 This is bold and italic text\
 
 <hr>
-**This is a bold Text**<br>
-*This is an italic text*<br>
-__This is italic text__<br>
-***This is bold and Italic***
+
+**Bold**  
+*italic*  
+_italic_  
+__bold__  
+***bold and italic***
+
